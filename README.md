@@ -20,6 +20,7 @@ A curated list of top home entertainment media servers, Smart TV modding utiliti
 
 
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source Equivalents & Tools](#open-source-equivalents--tools)
@@ -42,29 +43,26 @@ A curated list of top home entertainment media servers, Smart TV modding utiliti
 
 
 
+## Sector Overview & Market Dynamics
+
+The global home media server and personal streaming software market is valued at approximately **$2.14B** and is projected to expand at a CAGR of ~8–12.5% as local 4K libraries, cord-cutting, and home streaming setups multiply. The industry exhibits a bifurcated structure that is **moderately fragmented**: commercial hardware/streaming is anchored by major ecosystem players like Plex and Harman/Samsung (Roon), while the enthusiast and self-hosted software layer is heavily fragmented among niche commercial utilities and privacy-focused open-source platforms (Jellyfin, Kodi).
+
+---
+
 ## SaaS/Hosted Platforms
 
+Commercial, freemium, and proprietary media servers, cloud sync platforms, and paid home theater applications sorted by company scale (valuation / funding / revenue).
 
-
-Commercial, freemium, and proprietary media servers, cloud sync platforms, and paid home theater applications.
-
-
-
-* **[Plex Media Server & Plex Pass](https://plex.tv)** - Proprietary media server and cloud-authenticated streaming ecosystem with hosted discovery, live TV, and mobile/TV apps.
-
-* **[Emby Premiere](https://emby.media)** - Commercial personal media server offering hardware transcoding, live TV DVR, and cloud-synced client apps.
-
-* **[Infuse Pro](https://firecore.com)** - Paid, proprietary video player for Apple TV, iOS, and macOS with Trakt/iCloud sync and direct Plex/Emby/Jellyfin integration.
-
-* **[Mezzmo](https://conceiva.com)** - Proprietary DLNA/UPnP media server for Windows designed to stream movies, music, and photos to Smart TVs and consoles.
-
-* **[Channels DVR Server](https://getchannels.com)** - Commercial whole-home DVR and media server platform combining OTA antennas, TV Everywhere, and local libraries.
-
-* **[Roon](https://roon.app)** - Proprietary audiophile multi-room music management and streaming platform for home theater setups.
-
-* **[PlayOn Cloud](https://playon.tv)** - Cloud-based DVR service allowing users to record and download streaming video for offline playback on TVs.
-
-* **[Kodi Cloud / Managed HTPC Hosting](https://kodi.tv)** - Third-party hosted seedbox and cloud media setups pre-configured for remote Kodi streaming.
+| Platform | Description | Pricing (Starting Tier) | Free Tier Limits / Free Trial | Company Scale (Valuation / Revenue / Funding) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Roon](https://roon.app)** | Audiophile multi-room music management and streaming ecosystem for high-end home theater setups. | $14.99/mo (or $149.88/yr billed annually) | 14-day free trial with full feature access | **$8.0B+** (Acquired by Harman International, a wholly owned subsidiary of Samsung Electronics) |
+| **[Plex Media Server & Plex Pass](https://plex.tv)** | Media server and cloud-authenticated streaming ecosystem with hosted discovery, live TV, and mobile apps. | $6.99/mo (or $69.99/yr) | Free forever plan with basic streaming & playback; lacks hardware transcoding, mobile downloads, and live TV DVR | **$132M+ funding raised** (Valued at ~$60M–$65M estimated annual revenue, backed by Kleiner Perkins) |
+| **[RapidSeedbox (Kodi Cloud / Managed Hosting)](https://rapidseedbox.com)** | Managed high-speed seedbox and remote cloud media hosting pre-configured for Kodi, Plex, and streaming automation. | $5.00/mo (Lean Basic tier: 500 GB storage, 10 Gbps port) | 14-day money-back guarantee with full plan features (no permanent free tier) | **~$5M–$10M est. revenue** (Bootstrapped private web host, 15+ employees) |
+| **[PlayOn Cloud](https://playon.tv)** | Cloud-based streaming DVR allowing users to record and download streaming video for offline playback on TVs. | $4.99/mo (Cloud 100 GB plan with 30 monthly recording credits) | 7-day free trial with 5 to 7 free recording credits and 7 days of temporary cloud storage | **~$2M–$5M est. revenue** (MediaMall Technologies, Inc., 12+ employees) |
+| **[Infuse Pro](https://firecore.com)** | High-performance media player for Apple TV, iOS, and macOS with Trakt/iCloud sync and direct Plex/Jellyfin streaming. | $1.99/mo (or $16.99/yr) | 7-day free trial of Pro; free forever base tier limited to basic audio/video codecs (no Dolby Vision, Atmos, or cloud streaming) | **~$1M–$5M est. revenue** (Firecore LLC, bootstrapped indie studio, 1–10 employees) |
+| **[Channels DVR Server](https://getchannels.com)** | Whole-home DVR and personal media server platform integrating OTA antennas, TV Everywhere, and local libraries. | $8.00/mo (or $80.00/yr) | 30-day (1 month) free trial with full access to whole-home DVR recording & guide data | **~$1M–$3M est. revenue** (Fancy Bits, LLC, bootstrapped indie team, ~3 employees) |
+| **[Emby Premiere](https://emby.media)** | Personal media server offering hardware transcoding, live TV DVR, and cloud-synced multi-client streaming apps. | $4.99/mo (or $54.00/yr) | 14-day free trial of Premiere; free forever basic server tier excludes hardware transcoding, Live TV/DVR, and offline sync | **~$1M–$3M est. revenue** (Emby LLC, bootstrapped private software vendor, <10 core contributors) |
+| **[Mezzmo](https://conceiva.com)** | DLNA/UPnP media server for Windows designed to organize and stream movies, music, and photos to Smart TVs. | $29.95 one-time perpetual license | 15-day free trial with full transcoding and streaming capabilities; locks server access after 15 days | **<$1M est. revenue** (Conceiva Pty. Ltd., boutique software development firm) |
 
 
 
